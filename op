@@ -34,15 +34,3 @@ client.on('messageCreate', async (message) => {
 });
 
 client.login('MTQ5NzcyOTA0MDMyNzUwODAxOA.GD4Sz2.VWSmMXGajCmmeZllWKktK3hVMPxcB_RllfDFKs');
-
-{
-  "name": "discord-bot",
-  "version": "1.0.0",
-  "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.11.0"
-  }
-}
